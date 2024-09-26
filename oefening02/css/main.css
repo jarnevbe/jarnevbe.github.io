@@ -1,0 +1,14 @@
+body {
+    font-family: cursive;
+    font-size: 40px;
+    background-color: yellow;
+}
+img {
+    max-width: 100%;
+}
+.inspringing {
+   margin-inline: 300px; 
+}
+.inspringing1 {
+    margin-inline: 50px;
+}
